@@ -9,7 +9,7 @@ variables:
     default: "core-metrics-server"
   - name: PACKAGE_VERSION
     description: "Version of the Core package"
-    default: "0.56.0"
+    default: "0.55.0"
   - name: PACKAGE_FLAVOR
     default: "unicorn"
   - name: ARCHITECTURE
